@@ -1,7 +1,7 @@
 - 👋 Merhaba, ben @tandirbabba
 - 👀 C#, Python ve JavaScript ile ilgileniyorum
 - 🌱 C#'ı şu anda öğreniyorum...
-- 📫 Bana Discord'dan ulaşabilirsiniz: astymous
+- 📫 Bana Discord'dan ulaşabilirsiniz: tandirbabba
 - 😄 Zamirler: babba
 - ⚡ Eğlenceli gerçek: ölü
 
