@@ -1,8 +1,8 @@
-- 👋 Merhaba, ben @tandirbabba
+- 👋 Merhaba, ben @asty-mous
 - 👀 C#, Python ve JavaScript ile ilgileniyorum
 - 🌱 C#'ı şu anda öğreniyorum...
-- 📫 Bana Discord'dan ulaşabilirsiniz: tandirbabba
-- 😄 Zamirler: babba
+- 📫 Bana Discord'dan ulaşabilirsiniz: astymous
+- 😄 Zamirler: asti
 - ⚡ Eğlenceli gerçek: ölü
 
 <!---
