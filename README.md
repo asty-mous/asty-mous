@@ -23,6 +23,8 @@ Bana ulaşmak istersen:
 
 Geliştirmeye devam etmek ve yeni projelerde birlikte çalışmak için sabırsızlanıyorum! 🚀
 
+
+
 [English]
 # Hello! 👋
 
